@@ -1,0 +1,1 @@
+Rancher blog 2018 setup basic kubernetes
